@@ -2,17 +2,17 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name: Daniel Astudillo
+- Week: 10
+- Lab: 13A
+- Date: 10/31/2026
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [x] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
